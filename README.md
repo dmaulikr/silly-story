@@ -8,3 +8,4 @@ It will eventually have college themed stories.
 ***I began creating this app before I learned anything about databases.
     I know it would be more effiencent using a database. My goal is to use SQLite 
     when I become more comfortable with it.***
+
